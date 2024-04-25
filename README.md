@@ -1,7 +1,7 @@
 # 2024
 ## Zero to Hero : Re-Learning
 
-In this project I am going to cover all the machine learning topics with project based explanation.
+### In this project I am going to cover all the machine learning topics with project based explanation.
 
 Lets create a rough tree based diagram.
 

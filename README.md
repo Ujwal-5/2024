@@ -4,7 +4,7 @@
 ### In this project I am going to cover all the machine learning topics with project based explanation.
 
 Lets create a rough tree based diagram.
-
+```
 Artificial Intelligence (AI)
 |
 |-- Machine Learning
@@ -63,6 +63,6 @@ Artificial Intelligence (AI)
   |-- Cognitive Computing
   |-- Game Playing
   |-- Other AI Application and Techniques
-
+```
   Note : Keep in mind that this is a simplified representation and there may be overlap or additional branches within each category depending on specific applications and research areas.
 
